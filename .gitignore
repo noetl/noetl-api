@@ -1,3 +1,15 @@
+.idea
+*.iml
+*.pyc
+target
+.classpath
+.settings
+.project
+.pydevproject
+.DS_Store
+clusterManagement/out
+clusterManagement/clients
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
